@@ -3,7 +3,7 @@ window.DIARY_CONTENT = {
     "subtitle":  "A quiet place for thirteen diary pages and one letter.",
     "from":  "The person who loves you so much",
     "to":  "My sweet handsome baby",
-    "introduction":  "This is a diary containing all my thoughts, love, and care for you. Enjoy your time reading, my baby.\n\nI don\u0027t know where to start HAHAHA. I\u0027ve known you for a long time already, but maybe God has other plans that\u0027s why our interaction is quite late. But anyway, I was inspired when you said you wanna create a timeline, kaya I maid this. A recollection of moments where it felt special to me, and some confessions na rin HAHAHA.\n\nP.S. May period siya. Bare with it, please huhu. Mas sincere kasi pag meron e. I love youuu, mwahhh.",
+    "introduction":  "This is a diary containing all my thoughts, love, and care for you. Enjoy your time reading, my baby.\n\nI don\u0027t know where to start HAHAHA. I\u0027ve known you for a long time already, but maybe God has other plans that\u0027s why our interaction is quite late. But anyway, I was inspired when you said you wanna create a timeline, kaya I made this. A recollection of moments where it felt special to me, and some confessions na rin HAHAHA.\n\nP.S. May period siya. Bare with it, please huhu. Mas sincere kasi pag meron e. I love youuu, mwahhh.",
     "pages":  {
                   "diary-01":  {
                                    "date":  "May 4, 2026",
